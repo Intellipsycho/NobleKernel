@@ -1,12 +1,11 @@
 # NobleKernel
 An open-source kernel written from scratch in C and Assembly, designed for performance, modularity, and as the foundation for the Noble operating system family.
-# NobleKernel
 
 > The heart of the Noble ecosystem.
 
-![Status](https://img.shields.io/badge/status-early%20development-orange)
-![Language](https://img.shields.io/badge/language-C%20%7C%20Assembly-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-early%20development-red)
+![Language](https://img.shields.io/badge/language-C%20%7C%20Assembly-red)
+![License](https://img.shields.io/badge/license-MIT-red)
 
 ---
 
